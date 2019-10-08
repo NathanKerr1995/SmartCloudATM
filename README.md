@@ -21,7 +21,7 @@ http://atmnathankerr.eu-west-2.elasticbeanstalk.com/Reset.aspx <br />
 • Download and unzip the file from GitHub<br />
 • Run the SLN file to open the project in Visual Studio<br />
 
-There should be an option in Visual Studio to install all NuGet packages from project but in case there isn't here they are:
+There should be an option in Visual Studio (Manage NuGet Packages, popup with restore button) to install all NuGet packages from project but in case there isn't here they are:
 
 • NuGet Packages Download<br />
 • Antlr by Sam Harwell, Terence Parr<br />
