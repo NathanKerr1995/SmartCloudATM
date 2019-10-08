@@ -45,6 +45,7 @@ There should be an option in Visual Studio to install all NuGet packages from pr
 • ScriptsCs.Contracts by Glenn Block, Justin Rusbatch, Filip Wojcieszyn<br />
 • WebGrease by webgrease@microsoft.com<br />
 
+• Rebuild the project<br />
 • If you have downloaded all packages then all that's left is to run the project with IIS Express using your preferred browser<br />
 
 Also the Reset.aspx works here too.
