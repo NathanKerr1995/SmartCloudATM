@@ -1,0 +1,27 @@
+﻿div.login-textbox-outer {
+    position: relative;
+}
+
+div.login-textbox-inner {
+    position: absolute;
+    width: 100%;
+    bottom: 10px;
+}
+
+div.main-screen-box {
+    /*border-style: solid;
+    border-width: 1px;*/
+    background-image: url('../Img/money-cloud.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.text-red {
+    color: #B22222 !important;
+}
+
+.text-black {
+    color: black !important;
+}
